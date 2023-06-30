@@ -3,7 +3,7 @@ layout: "@layouts/ArticleLayout.astro"
 title: Acrylic Extensions
 date: 30 June 2023
 description: Classic / Sculpted
-image: '/images/acrylic.jpg'
+image: '/images/my-first-article/acrylic.jpg'
 ---
 
 Providing nail entensions and enhancements using acrylic. 

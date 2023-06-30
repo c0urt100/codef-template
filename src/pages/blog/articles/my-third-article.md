@@ -2,6 +2,7 @@
 layout: "@layouts/ArticleLayout.astro"
 title: Classic Manicures
 date: 30 June 2023
+description: Cuticles / Buffing / Shaping
 image: /images/manicure.jpg
 ---
 
