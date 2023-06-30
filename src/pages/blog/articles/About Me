@@ -1,0 +1,5 @@
+layout: "@layouts/ArticleLayout.astro"
+title: About Me
+image: /images/person.jpg
+
+
